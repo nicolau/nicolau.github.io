@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Categories on Andre Goncalves</title>
+    <link>//nicolau.github.io/categories/</link>
+    <description>Recent content in Categories on Andre Goncalves</description>
+    <image>
+      <title>Andre Goncalves</title>
+      <url>//nicolau.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>//nicolau.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="//nicolau.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

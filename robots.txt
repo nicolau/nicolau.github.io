@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: //nicolau.github.io/sitemap.xml
